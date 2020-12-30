@@ -17,7 +17,7 @@ The goal of this project was to build a simple video game using the Python progr
 * Download the ZombieMale.jpg file
 * Ensure all the downloaded files are in the same folder before running the code
 * Ensure you have Python 3.8 installed on your computer as well as the Pygame libraries
-* Open the file using your IDE (Integrated Development Environment) of choice such as Python Idle, Phycharm, Anaconda etc.
+* Open the game_wynand.py file using your IDE (Integrated Development Environment) of choice such as Python Idle, Phycharm, Anaconda etc.
 * Run the code
 
 ## Contact Information
