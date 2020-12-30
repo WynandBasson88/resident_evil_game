@@ -4,7 +4,7 @@ The resident_evil_game project enables the user to play a simple Resident Evil s
 The player takes control of the main character called Leon and uses the directional buttons to avoid colliding with enemies such as zombies, zombie dogs, Lickers and a G-virus mutation in an attempt to reach the cure for the virus at the far end of Raccoon City.
 The main character and the enemies are represented by moving images.
 
-The goal of this project was to build a simple video game using the Python programming language with the Pygame libraries and can be played by anyone who is a fan of video games and the Resident Evil game franchise.
+The goal of this project was to build a simple video game using the Python programming language with the Pygame libraries and can be played by anyone who is a fan of video games and the Resident Evil video game franchise.
 
 ## Instructions for how to test the code
 * Download the game_wynand.py file
