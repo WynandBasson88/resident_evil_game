@@ -23,4 +23,3 @@ The goal of this project was to build a simple video game using the Python progr
 Wynand Basson  
 bassonwynand@gmail.com  
 https://github.com/WynandBasson88
-https://wynandbasson88.github.io/Wynand_Basson_Resume/
