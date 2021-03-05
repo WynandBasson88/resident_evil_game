@@ -1,8 +1,7 @@
 # resident_evil_game
 ## What the resident_evil_game project is for
-The resident_evil_game project enables the user to play a simple Resident Evil styled video game. 
-The player takes control of the main character called Leon and uses the directional buttons to avoid colliding with enemies such as zombies, zombie dogs, Lickers and a G-virus mutation in an attempt to reach the cure for the virus at the far end of Raccoon City.
-The main character and the enemies are represented by moving images.
+The resident_evil_game project was created using Python with Pygame libraries. This project enables the user to play a simple Resident Evil styled video game. 
+The player takes control of the main character called Leon and uses the directional buttons to avoid colliding with zombie enemies in an attempt to reach the cure for the virus at the far end of Raccoon City.
 
 The goal of this project was to build a simple video game using the Python programming language with the Pygame libraries. This video game can be played by anyone who is a fan of games and the Resident Evil video game franchise.
 
@@ -24,3 +23,4 @@ The goal of this project was to build a simple video game using the Python progr
 Wynand Basson  
 bassonwynand@gmail.com  
 https://github.com/WynandBasson88
+https://wynandbasson88.github.io/Wynand_Basson_Resume/
